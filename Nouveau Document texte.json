@@ -1,0 +1,64 @@
+[
+  {
+    "id": "#0001",
+    "prenom": "Paul",
+    "nom": "Dupont",
+    "classe": "2B",
+    "dateNaissance": "15/03/2006",
+    "tel": {
+      "valeur": "0675000001",
+      "modifieLe": "28/12/2025"
+    },
+    "taille": {
+      "valeur": "1m65",
+      "modifieLe": "30/12/2025"
+    },
+    "pointure": {
+      "valeur": 41,
+      "modifieLe": "30/12/2025"
+    },
+    "surnoms": {
+      "valeur": ["Paulo", "P-Dup"],
+      "modifieLe": "01/01/2026"
+    },
+    "description": {
+      "valeur": "Aime le foot et les maths",
+      "modifieLe": "01/01/2026"
+    },
+    "photo": {
+      "valeur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...",
+      "modifieLe": "15/12/2025"
+    }
+  },
+  {
+    "id": "#0002",
+    "prenom": "Jeanne",
+    "nom": "Martin",
+    "classe": "2B",
+    "dateNaissance": "20/05/2006",
+    "tel": {
+      "valeur": "0675000002",
+      "modifieLe": "02/01/2026"
+    },
+    "taille": {
+      "valeur": "1m62",
+      "modifieLe": "30/12/2025"
+    },
+    "pointure": {
+      "valeur": 39,
+      "modifieLe": "30/12/2025"
+    },
+    "surnoms": {
+      "valeur": ["Jeanjean"],
+      "modifieLe": "02/01/2026"
+    },
+    "description": {
+      "valeur": "Aime le dessin et la lecture",
+      "modifieLe": "02/01/2026"
+    },
+    "photo": {
+      "valeur": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...",
+      "modifieLe": "15/12/2025"
+    }
+  }
+]
