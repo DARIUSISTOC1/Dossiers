@@ -1,0 +1,54 @@
+[
+  {
+    "id": "#0001",
+    "prenom": "Paul",
+    "nom": "Dupont",
+    "classe": "2B",
+    "dateNaissance": "15/03/2006",
+    "tel": { "valeur": "0675000001", "modifieLe": "28/12/2025" },
+    "insta": { "valeur": "paul_insta", "modifieLe": "28/12/2025" },
+    "snap": { "valeur": "paul.snap", "modifieLe": "28/12/2025" },
+    "mail": { "valeur": "paul.dupont@mail.com", "modifieLe": "28/12/2025" },
+    "description": { "valeur": "Aime le foot et les maths", "modifieLe": "01/01/2026" },
+    "photo": { "valeur": "https://via.placeholder.com/300x300?text=Paul", "modifieLe": "15/12/2025" },
+    "allergies": [
+      { "nom": "Arachides", "statut": "non" },
+      { "nom": "Lactose", "statut": "ok" },
+      { "nom": "Pollen", "statut": "inconnu" }
+    ]
+  },
+  {
+    "id": "#0002",
+    "prenom": "Lina",
+    "nom": "Martin",
+    "classe": "2B",
+    "dateNaissance": "22/09/2006",
+    "tel": { "valeur": "0675000002", "modifieLe": "10/01/2026" },
+    "insta": { "valeur": "lina_art", "modifieLe": "10/01/2026" },
+    "snap": { "valeur": "lina_snap", "modifieLe": "10/01/2026" },
+    "mail": { "valeur": "lina.martin@mail.com", "modifieLe": "10/01/2026" },
+    "description": { "valeur": "Aime le dessin et les jeux vidéo", "modifieLe": "12/01/2026" },
+    "photo": { "valeur": "https://via.placeholder.com/300x300?text=Lina", "modifieLe": "12/01/2026" },
+    "allergies": [
+      { "nom": "Gluten", "statut": "ok" },
+      { "nom": "Fruits de mer", "statut": "non" }
+    ]
+  },
+  {
+    "id": "#0003",
+    "prenom": "Yanis",
+    "nom": "Benali",
+    "classe": "1A",
+    "dateNaissance": "03/02/2007",
+    "tel": { "valeur": "0675000003", "modifieLe": "05/02/2026" },
+    "insta": { "valeur": "yanis_basket", "modifieLe": "05/02/2026" },
+    "snap": { "valeur": "yanis.snap", "modifieLe": "05/02/2026" },
+    "mail": { "valeur": "yanis.benali@mail.com", "modifieLe": "05/02/2026" },
+    "description": { "valeur": "Sportif, adore le basket", "modifieLe": "05/02/2026" },
+    "photo": { "valeur": "https://via.placeholder.com/300x300?text=Yanis", "modifieLe": "05/02/2026" },
+    "allergies": [
+      { "nom": "Pollen", "statut": "inconnu" },
+      { "nom": "Arachides", "statut": "ok" }
+    ]
+  }
+]
